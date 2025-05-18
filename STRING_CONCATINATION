@@ -1,0 +1,6 @@
+#STRING CONCATINATION
+
+first_name = "TONY"
+last_name = "SHARK"
+full_name = first_name + " " + last_name
+print("Full Name:", full_name)
